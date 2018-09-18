@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Update the sources list
 sudo apt-get update -y
 
